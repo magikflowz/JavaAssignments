@@ -1,0 +1,1 @@
+final double value = 35.5;
