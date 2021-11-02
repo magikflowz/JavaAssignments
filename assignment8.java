@@ -1,8 +1,4 @@
-/*	Programming Assignment 8. CSET 1200. 
-*	University of Toledo.
-*	Instructor: Jared Oluoch, Ph.D.
-*	Due Date:  Sunday October 31, 2021 at 11:59 PM.
-*	Total Points:20
+/*	
 */
 
 /*	Your program must compile and run to get credit. 
@@ -14,11 +10,6 @@
 
 # Name : Your First and Last Name
 
-# Class: CSET 1200
-
-# Instructor: Dr. Jared Oluoch
-
-# Programming Assignment: 8
 
 # Date: MMDDYY
 
