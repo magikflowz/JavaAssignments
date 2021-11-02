@@ -1,8 +1,5 @@
 /*  Programming Assignment 4. CSET 1200. 
-*   University of Toledo.
-*   Instructor: Jared Oluoch, Ph.D.
-*   Due Date: Sunday October 3, 2021 at 11:59 PM.
-*   Total Points: 20
+* 
 */
 
 /*  Your program must compile and run to get credit. 
@@ -12,21 +9,13 @@
 
 *   Your program must have the following information at the top. 
 
-# Name : Anthony Urbina
 
-# Class: CSET 1200
-
-# Instructor: Dr. Jared Oluoch
-
-# Programming Assignment: 4
-
-# Date: 09/27/2021
 
 # Summary: Grading application that displays lowest scores, pecentage of the class that fails,  and who recieved the lowest scores and the number scores that have been entered
 
 #Youtube: https://youtu.be/E_C8RgRy7z0
 
-# The TA for this class is Bibek Poudel (bibek.poudel@rockets.utoledo.edu).
+# The TA for this class is Bibek Poudel
   Please reach out to him if you have questions about the assignment.
   
 # You must put this line as a comment at the top of your Java source file. 
