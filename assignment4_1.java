@@ -1,8 +1,5 @@
 /*	Programming Assignment 6. CSET 1200. 
-*	University of Toledo.
-*	Instructor: Jared Oluoch, Ph.D.
-*	Due Date: Monday October 18, 2021 at 11:59 PM.
-*	Total Points: 20
+*
 */
 
 /*	Your program must compile and run to get credit. 
@@ -14,11 +11,7 @@
 
 # Name : Your First and Last Name
 
-# Class: CSET 1200
 
-# Instructor: Dr. Jared Oluoch
-
-# Programming Assignment: 5
 
 # Date: MMDDYY
 
@@ -33,11 +26,7 @@ such as chegg.com; from a classmate, or any other person other than the instruct
 or TA for this course. I understand that getting outside help from this course 
 other than from the instructor or TA will result in a grade of 0 in this 
 assignment and other disciplinary actions for academic dishonesty.â€  
-/*	Programming Assignment 6. CSET 1200. 
-*	University of Toledo.
-*	Instructor: Jared Oluoch, Ph.D.
-*	Due Date: Monday October 18, 2021 at 11:59 PM.
-*	Total Points: 20
+
 */
 
 /*	Your program must compile and run to get credit. 
@@ -49,14 +38,7 @@ assignment and other disciplinary actions for academic dishonesty.â€
 
 # Name : Your First and Last Name
 
-# Class: CSET 1200
-
-# Instructor: Dr. Jared Oluoch
-
-# Programming Assignment: 5
-
-# Date: MMDDYY
-
+#
 # Summary: A brief description of what the program does
 
 # The TA for this class is Bibek Poudel (bibek.poudel@rockets.utoledo.edu).
